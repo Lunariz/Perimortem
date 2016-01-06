@@ -1,0 +1,13 @@
+Library/
+Temp/
+SinterklaasJamAndSlam.CSharp.csproj
+SinterklaasJamAndSlam.sln
+ProjectSettings/ProjectVersion.txt
+.vs/SinterklaasJamAndSlam/v14/.suo
+<<<<<<< HEAD
+DGDARCGameJam.userprefs
+=======
+DGDARCGameJam.CSharp.csproj
+DGDARCGameJam.sln
+SinterklaasJamAndSlam.CSharp.Editor.csproj
+>>>>>>> 27e12a1b84ea8d452b67b92d0507a674133ab55c

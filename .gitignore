@@ -1,0 +1,14 @@
+Library/
+Temp/
+SinterklaasJamAndSlam.CSharp.csproj
+SinterklaasJamAndSlam.sln
+ProjectSettings/ProjectVersion.txt
+.vs/SinterklaasJamAndSlam/v14/.suo
+DGDARCGameJam.CSharp.csproj
+DGDARCGameJam.sln
+SinterklaasJamAndSlam.CSharp.Editor.csproj
+DGDARCGameJam.userprefs
+DGDARCGameJam.CSharp.Editor.csproj
+SinterklaasJamAndSlam.userprefs
+test_Data/
+test.exe
