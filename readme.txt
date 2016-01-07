@@ -11,11 +11,11 @@ In a competition against 7 other teams, Perimortem came on top and was declared 
 The Team
 Our team consisted of:
 Lukas Donkers			Programmer
-Alexander Leestemaker	Programmer
+Alexander Leestemaker		Programmer
 Arthur Brussee			Programmer
 Kevin Hutchinson		Programmer
 Marie Lhuissier			Artist
-Don Chorus				Sound Design
+Don Chorus			Sound Design
 
 The Implementation
 We utilized the theme of the gamejam by putting emphasis on 'before you know it'. We created a game mechanic revolving around an invisible timer.
