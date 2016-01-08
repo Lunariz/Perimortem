@@ -9,7 +9,6 @@ The theme of the gamejam was 'Time is over before you know it'.
 In a competition against 7 other teams, Perimortem came on top and was declared the winner of the gamejam!
 
 The Team
-Our team consisted of:
 Lukas Donkers			Programmer
 Alexander Leestemaker		Programmer
 Arthur Brussee			Programmer
