@@ -4,8 +4,8 @@ Warning: This project severely lacks comments. For good commenting style, check 
 Looking for the game? Play Perimortem here: http://bit.ly/22NkHj7
 
 The Goal
-Perimortem was created during a 48 hour gamejam organised by DGDARC at the University of Utrecht.
-The theme of the gamejam was 'Time is over before you know it'
+Perimortem was created during a 24 hour gamejam organised by DGDARC at the University of Utrecht.
+The theme of the gamejam was 'Time is over before you know it'.
 In a competition against 7 other teams, Perimortem came on top and was declared the winner of the gamejam!
 
 The Team
